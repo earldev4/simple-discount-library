@@ -1,6 +1,7 @@
 <?php
 
-namespace EarlDev\PhpComposer1;
+namespace EarlDev\PhpComposer1\Discount;
+
 class Discount {
 
     public function hitungHargaAkhir($hargaAwal, $diskon): float|int {
